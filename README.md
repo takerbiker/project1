@@ -1,2 +1,2 @@
 # project1
-SGSEIF Projecy 1
+SGSEIF Project 1
